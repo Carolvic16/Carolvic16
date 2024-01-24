@@ -6,6 +6,6 @@ ________________________________________________________________________________
 
 ![Victoria Carolina GitHub stats](https://github-readme-stats.vercel.app/api?username=carolvic16&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolvic16&layout=compact)](https://github.com/carolvic16/github-readme-stats)
 ___
-I'm a Computer Science student, here's where I can share my projects✨
+I'm a Computer Science student, here's where I can share my projects✨🌙
 
 

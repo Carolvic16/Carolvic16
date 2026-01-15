@@ -12,7 +12,7 @@ ________________________________________________________________________________
 <a href="https://www.linkedin.com/in/vict%C3%B3ria-carolina-silva-638610284/"><img src="https://img.shields.io/badge/linkedin-431c36?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://www.instagram.com/carolvic16/"><img src="https://img.shields.io/badge/instagram-141321?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
 
-![Victoria Carolina GitHub stats](https://github-readme-stats.vercel.app/api?username=carolvic16&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolvic16&layout=compact&theme=radical)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
